@@ -1,9 +1,9 @@
 [
   {
-    "poolName": "please hand safekeeping of btcprivate.org over to the BTCP contribution team",
+    "poolName": "Bitcoin Private",
     "url": "https://btcprivate.org/",
     "searchStrings": [
-      "please hand safekeeping of btcprivate.org over to the BTCP contribution team"
+     "Bitcoin Private"
     ]
   },
   {
@@ -152,6 +152,20 @@
     "url": "https://pandamines.com",
     "searchStrings": [
       "Panda Mines"
+    ]
+   },
+   {
+    "poolName": "MinerManiac.com",
+    "url": "http://www.minermaniac.com/",
+    "searchStrings": [
+      "MinerManiac.com http://www.minermaniac.com/"
+    ]
+   },
+   {
+    "poolName": "POOOL",
+    "url": "http://www.POOOL.com/",
+    "searchStrings": [
+      "POOOL.com http://www.POOOL.com/"
     ]
    }
 ]
